@@ -2,6 +2,10 @@
 
 <h3 align="center">Full Stack Developer | B.Tech CSE Student</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Building+Scalable+Systems" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -65,6 +69,14 @@ I enjoy building scalable web applications and continuously improving my underst
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K092005&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K092005&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/K092005/K092005/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
