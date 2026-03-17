@@ -3,7 +3,11 @@
 <h3 align="center">🚀 Full Stack Developer | 🎓 B.Tech CSE | ⚡ Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Flask+%7C+Next.js;DSA+Enthusiast;Building+Scalable+Solutions+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Apps;React+%7C+Flask+%7C+Next.js;DSA+%7C+System+Design;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=K092005&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -11,9 +15,18 @@
 ## 🌌 About Me
 
 💻 B.Tech CSE (3rd Year) @ MIT World Peace University
-🚀 Passionate Full Stack Developer
-🎯 Strong in DSA, DBMS & Backend Systems
-⚡ Focused on scalable and efficient systems
+🚀 Passionate about building scalable & real-world applications
+🎯 Strong foundation in DSA, DBMS & Backend Systems
+⚡ Always learning, experimenting, and improving
+
+---
+
+## 🎯 What I Do
+
+* 🔹 Build full stack web applications
+* 🔹 Design efficient backend systems
+* 🔹 Solve real-world problems using code
+* 🔹 Continuously improve problem-solving skills
 
 ---
 
@@ -78,12 +91,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K092005&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K092005&layout=compact&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=K092005&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K092005&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=K092005&theme=github-dark-blue"/>
+  <img src="https://streak-stats.demolab.com/?user=K092005&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -100,19 +113,28 @@
 
 ## 🧠 Fun Zone 👀
 
-```bash
+<details>
+<summary>⚡ Developer Mode</summary>
+
+```bash id="n0i8pd"
 while(alive){
    learn();
-   code();
+   build();
    repeat();
 }
 ```
+
+💡 Hidden Rule:
+
+> Code never lies… comments sometimes do 😄
+
+</details>
 
 ---
 
 ## 🚀 Quote
 
-> “Keep building. Keep improving. Keep growing.”
+> “Great developers don’t just write code, they solve problems.”
 
 ---
 
