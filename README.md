@@ -2,10 +2,6 @@
 
 <h3 align="center">Full Stack Developer | B.Tech CSE Student</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Building+Scalable+Systems" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -39,24 +35,20 @@ I enjoy building scalable web applications and continuously improving my underst
 <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
 
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
@@ -69,14 +61,6 @@ I enjoy building scalable web applications and continuously improving my underst
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K092005&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K092005&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/K092005/K092005/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
