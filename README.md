@@ -28,11 +28,20 @@ krishna@earth:~$ sudo hire krishna
 
 ---
 
-### 💬 Random Dev Quote
+## ⚡ Quick Facts & Current Focus
 
-> *"Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change."*
-> 
-> — **Daniel T. Barry**
+- 🔭 **Currently Building**: Agentic AI Workflows, Scalable Web Applications & RESTful APIs
+- 🎯 **Primary Goal**: Master advanced Data Structures & Algorithms and system design
+- 💬 **Ask me about**: React, TypeScript, Python, Flask, MySQL query optimization, and Java
+- ☕ **Fun Fact**: Turning coffee into clean code and zero compiler errors
+
+---
+
+### 💬 Daily Developer Quote (Refreshed Live)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 ---
 
