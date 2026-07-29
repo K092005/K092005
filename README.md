@@ -69,8 +69,12 @@ krishna@earth:~$ sudo hire krishna
   </a>
 </p>
 
+---
+
+## 🐍 The Snake Ate My Commits
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K092005&theme=react-dark" width="100%" alt="Krishna's Contribution Activity"/>
+  <img src="https://raw.githubusercontent.com/K092005/K092005/output/github-contribution-grid-snake-dark.svg" alt="Snake ate my commits animation" width="100%"/>
 </p>
 
 ---
