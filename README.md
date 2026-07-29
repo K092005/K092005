@@ -1,79 +1,80 @@
-<h1 align="center">Krishna Singh</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer | B.Tech CSE Student</h3>
+# 👋 Hi, I'm Krishna Singh
+
+### 🚀 Full-Stack Developer | Agentic AI Enthusiast | B.Tech CSE (2023 – 2027)
+
+[![Portfolio Website](https://img.shields.io/badge/🌐_Visit_My_Portfolio-Click_Here-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://k092005.github.io/krishna-singh-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-20bbb6231)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks6511222@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/k092005/)
 
 ---
+
+</div>
 
 ## 🧑‍💻 About Me
 
-I am a 3rd-year B.Tech Computer Science student at MIT World Peace University with a strong interest in full stack development and problem solving.  
-I enjoy building scalable web applications and continuously improving my understanding of data structures, backend systems, and software design.
+I am a 4th-year **B.Tech Computer Science and Engineering (CSE)** student (2023 – 2027) at MIT World Peace University. I specialize in building full-stack web applications, database architectures, and autonomous **Agentic AI systems**.
+
+- 🎓 **Education**: B.Tech in CSE (2023 – 2027)
+- 💻 **Focus**: Full-Stack Development, Agentic AI Architectures, Database Optimization
+- 🌐 **Live Portfolio**: [k092005.github.io/krishna-singh-portfolio](https://k092005.github.io/krishna-singh-portfolio/)
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Featured Projects
 
-<p align="center">
-  <a href="mailto:ks6511222@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/krishna-singh-20bbb6231" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/K092005" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 🧠 [AI-Powered Travel Assistant (Agentic AI)](https://github.com/K092005/krishna-singh-portfolio)
+An autonomous multi-agent travel planner leveraging Google Gemini, Serper API, Weather API, and Unsplash API to generate reasoned itineraries with live weather and visual highlights.
+
+### 🏥 [MediTrack – Clinic Management Web App](https://github.com/K092005/krishna-singh-portfolio)
+A full-stack clinic management system serving 100+ active users with role-based access. Improved query efficiency by **40%** through index optimization and schema normalization.
+
+### 🚆 [Pune Metro Ticketing System](https://github.com/K092005/krishna-singh-portfolio)
+A secure ticket booking portal leveraging MySQL stored procedures, triggers, cursors, and transaction control commands for safe concurrent bookings.
+
+### 📚 [EduSync – Student Collaboration Platform](https://github.com/K092005/krishna-singh-portfolio)
+A Java-based multi-user collaboration platform supporting 50+ concurrent users with JDBC-based database operations and an OOP modular architecture.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack & Skills
 
 <p align="center">
-
-<!-- Languages -->
-<a href="#" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-
-<!-- Web -->
-<a href="#" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-
-<!-- Data -->
-<a href="#" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/></a>
-
-<!-- Database -->
-<a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-
-<!-- Tools -->
-<a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-<a href="#" target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
-
+  <!-- Languages -->
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <br/><br/>
+  <!-- Web -->
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <br/><br/>
+  <!-- Databases & Tools -->
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K092005&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K092005&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K092005&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K092005&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</div>
 
 ---
 
-## 🧠 Core Concepts
+<div align="center">
 
-* Data Structures & Algorithms
-* DBMS
-* Operating Systems
-* Computer Networks
-* Object-Oriented Programming
+⭐ Created by **Krishna Singh** | Thanks for visiting!
+
+</div>
