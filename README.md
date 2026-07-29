@@ -26,9 +26,6 @@ krishna@earth:~$ sudo hire krishna
 > Permission granted. Check out portfolio for evidence.
 ```
 
-> [!WARNING]
-> **Warning**: Prolonged exposure to this profile may cause a sudden urge to open a pull request or a job offer. Proceed responsibly.
-
 ---
 
 ### 💬 Random Dev Quote
