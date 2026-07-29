@@ -64,12 +64,14 @@ A Java-based multi-user collaboration platform supporting 50+ concurrent users w
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streaks
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K092005&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K092005&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=K092005&show_icons=true&theme=dark" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=K092005&layout=compact&theme=dark" height="165" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K092005&theme=dark" height="165" alt="GitHub Streak"/>
+</p>
 
 ---
 
